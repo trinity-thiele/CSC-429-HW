@@ -1,0 +1,14 @@
+Java Overview
+
+Java is a widely used, high-level programming language that is known for its portability, object-oriented structure, and versatility. Developed by Sun Microsystems (now owned by Oracle) in the mid-1990s, Java allows developers to write code once and run it anywhere, thanks to the Java Virtual Machine (JVM). This feature is commonly referred to as "Write Once, Run Anywhere" (WORA).
+
+Java syntax is similar to C++, making it familiar to many developers. It is primarily used in building web applications, Android apps, enterprise-level software, and systems requiring portability across platforms.
+
+Key features of Java:
+
+Platform Independence: Java code is compiled into bytecode, which can be executed on any machine with a JVM.
+Object-Oriented: Java emphasizes the use of objects, which makes the language modular, flexible, and scalable.
+Rich API: Java offers a large collection of libraries for building networked applications, user interfaces, databases, and more.
+Multithreading: Java has built-in support for multithreading, which allows for the efficient execution of multiple tasks simultaneously.
+Automatic Memory Management: The Java runtime environment handles garbage collection, meaning developers don’t have to manually manage memory allocation and deallocation.
+Overall, Java's stability, security, and vast ecosystem make it a popular choice for large-scale applications and enterprise solutions.
